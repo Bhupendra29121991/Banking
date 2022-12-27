@@ -1,2 +1,0 @@
-# Banking
-for banking purpose
